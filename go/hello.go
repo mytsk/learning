@@ -1,3 +1,7 @@
+/*
+comment
+*/
+
 package main
 
 import "fmt"
